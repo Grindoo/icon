@@ -1,0 +1,8 @@
+{
+"name":"Emby Icon", 
+"description":"自用。", 
+"icons":
+    [
+	{"name":"ntrrr", "url":"https://raw.githubusercontent.com/Grindoo/icon/blob/main/ntrrr.jpg"}
+    ]
+}
