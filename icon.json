@@ -3,10 +3,10 @@
 "description":"自用。", 
 "icons":
     [
-	{"name":"ntrrr", "url":"https://raw.githubusercontent.com/Grindoo/icon/refs/heads/main/ntrrr.png"},
-	{"name":"starcat", "url":"https://raw.githubusercontent.com/Grindoo/icon/refs/heads/main/starcat.jpg"},
-	{"name":"fyrebird", "url":"https://raw.githubusercontent.com/Grindoo/icon/refs/heads/main/fyrebird.jpg"},
-	{"name":"Levilde Luminia", "url":"https://raw.githubusercontent.com/Grindoo/icon/refs/heads/main/Levilde%20Luminia.jpg"},
-	{"name":"rainbow", "url":"https://raw.githubusercontent.com/Grindoo/icon/refs/heads/main/rainbow.jpg"}
+	{"name":"ntrrr", "url":"https://raw.githubusercontent.com/Grindoo/icon/refs/heads/main/emby/ntrrr.png"},
+	{"name":"starcat", "url":"https://raw.githubusercontent.com/Grindoo/icon/refs/heads/main/emby/starcat.jpg"},
+	{"name":"fyrebird", "url":"https://raw.githubusercontent.com/Grindoo/icon/refs/heads/main/emby/fyrebird.jpg"},
+	{"name":"Levilde Luminia", "url":"https://raw.githubusercontent.com/Grindoo/icon/refs/heads/main/emby/Levilde%20Luminia.jpg"},
+	{"name":"rainbow", "url":"https://raw.githubusercontent.com/Grindoo/icon/refs/heads/main/emby/rainbow.jpg"}
     ]
 }
